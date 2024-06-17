@@ -14,7 +14,7 @@
     },
     {
       "rel": "item",
-      "href": "https://datatest42.blob.core.windows.net/land-use/local-image/local-image.json"
+      "href": "https://raw.githubusercontent.com/MB-Habitat/test_stac/main/local-image/local-image.json"
     }
   ]
 }

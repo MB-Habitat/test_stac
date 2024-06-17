@@ -6,11 +6,11 @@
   "links": [
     {
       "rel": "self",
-      "href": "https://datatest42.blob.core.windows.net/land-use/catalog.json"
+      "href": "https://raw.githubusercontent.com/MB-Habitat/test_stac/main/catalog.json"
     },
     {
       "rel": "root",
-      "href": "https://datatest42.blob.core.windows.net/land-use/catalog.json"
+      "href": "https://raw.githubusercontent.com/MB-Habitat/test_stac/main/catalog.json"
     },
     {
       "rel": "item",

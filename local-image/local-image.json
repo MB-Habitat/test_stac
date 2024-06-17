@@ -46,7 +46,7 @@
   ],
   "assets": {
     "image": {
-      "href": "https://datatest42.blob.core.windows.net/land-use/image.tif",
+      "href": "https://github.com/MB-Habitat/test_stac/edit/main/image.tif",
       "type": "image/tiff; application=geotiff"
     }
   },

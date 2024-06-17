@@ -1,0 +1,60 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "local-image",
+  "properties": {
+    "datetime": "2024-06-14T18:09:06.937000Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          37.6616853489879,
+          55.73478197572927
+        ],
+        [
+          37.6616853489879,
+          55.73882710285011
+        ],
+        [
+          37.66573047610874,
+          55.73478197572927
+        ],
+        [
+          37.66573047610874,
+          55.73882710285011
+        ],
+        [
+          37.6616853489879,
+          55.73478197572927
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "https://datatest42.blob.core.windows.net/land-use/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://datatest42.blob.core.windows.net/land-use/catalog.json",
+      "type": "application/json"
+    }
+  ],
+  "assets": {
+    "image": {
+      "href": "https://datatest42.blob.core.windows.net/land-use/image.tif",
+      "type": "image/tiff; application=geotiff"
+    }
+  },
+  "bbox": [
+    37.6616853489879,
+    55.73478197572927,
+    37.66573047610874,
+    55.73882710285011
+  ],
+  "stac_extensions": []
+}

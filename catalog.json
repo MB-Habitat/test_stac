@@ -1,0 +1,20 @@
+{
+  "type": "Catalog",
+  "stac_version": "1.0.0",
+  "id": "tutorial-catalog",
+  "description": "An example STAC catalog",
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://datatest42.blob.core.windows.net/land-use/catalog.json"
+    },
+    {
+      "rel": "root",
+      "href": "https://datatest42.blob.core.windows.net/land-use/catalog.json"
+    },
+    {
+      "rel": "item",
+      "href": "https://datatest42.blob.core.windows.net/land-use/local-image/local-image.json"
+    }
+  ]
+}
